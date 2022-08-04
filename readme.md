@@ -30,9 +30,6 @@ It's a service providing & e-commerce category which specify in car services cat
 </p>
 
 <hr>
-::before
-::after
-<hr>
 
 ### Khedma Sare3a
 
