@@ -29,6 +29,11 @@ It's a service providing & e-commerce category which specify in car services cat
 <a href="https://apps.apple.com/us/app/car-help-provider/id1613045513" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
 </p>
 
+<hr>
+::before
+::after
+<hr>
+
 ### Khedma Sare3a
 
 Khedma Sare3a is an application in two versions. Client & Provider versions.
