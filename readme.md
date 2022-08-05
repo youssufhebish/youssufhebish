@@ -69,7 +69,7 @@ Nashimi is an e-commerce application for large butcher shop chain, with a full o
 
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.kw4s.nashmililzabayh" target="blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
-<a href="https://apps.apple.com/us/app/النشمي/id16373170114" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+<a href="https://apps.apple.com/us/app/%D9%86%D8%B4%D9%85%D9%8A-%D9%84%D9%84%D8%B0%D8%A8%D8%A7%D9%8A%D8%AD/id1637317011" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
 </p>
 
 <hr>
