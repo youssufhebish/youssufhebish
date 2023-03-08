@@ -93,7 +93,7 @@ It's a service providing & e-commerce category which specify in car services cat
 #### Client Version
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.hebish.khedma" target="blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
-<a href="https://apps.apple.com/app/id1609963672" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+<a href="https://apps.apple.com/us/app/%D8%AE%D8%AF%D9%85%D9%87-%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9/id1634245987" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
 </p>
 
 #### Provider Version
