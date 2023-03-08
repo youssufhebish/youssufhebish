@@ -10,7 +10,48 @@
 <a href="https://wa.me/+201287719426" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-30b945?logo=whatsapp&style=for-the-badge&logoColor=white" alt="WHATSAPP" /></a>
 </p>
 
-## Some Projects
+## My Projects
+
+### AqarCom
+
+Aqarcom is a real estate mobile application that provides users with a simple and efficient way to buy, sell, and rent properties in Saudi Arabia. Users can search for properties based on location, price, and other criteria, and browse detailed descriptions, photos, and virtual tours of the available listings. The app also allows users to connect with agents or property owners directly, schedule viewings, and receive alerts when new properties that match their preferences become available. With its user-friendly interface and helpful features, Aqarcom offers a streamlined and convenient real estate experience for users in Saudi Arabia.
+
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.entlq.aqarcom" target="blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="https://apps.apple.com/sa/app/%D8%B9%D9%82%D8%A7%D8%B1-%D9%83%D9%88%D9%85-aqarcom/id1568547797" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+</p>
+
+<hr>
+
+### T & H
+
+T & H is a comprehensive multi-vendor e-commerce application that offers customers and sellers a seamless online shopping and selling experience. With T & H, customers can browse and purchase products from a wide range of vendors, while sellers can showcase and sell their products to a large and diverse customer base.
+
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.softsteps.tandh" target="blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="https://apps.apple.com/zw/app/t-h/id6443761574" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+</p>
+
+<hr>
+
+### Fix up
+
+Fix up is an application in two versions. Client & Provider versions.
+It's a service providing & e-commerce and it's the client version which helps the user to view products in the store and communicate with service providers and ask them for a service.
+
+#### Client Version
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.kian.fixup" target="blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="https://apps.apple.com/zw/app/fix-up/id6443759320" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+</p>
+
+#### Provider Version
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.provider.fixup" target="blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="https://apps.apple.com/zw/app/fix-up-provider/id6443759616" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+</p>
+
+<hr>
 
 ### Car Help
 
