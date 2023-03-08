@@ -17,7 +17,7 @@
 Aqarcom is a real estate mobile application that provides users with a simple and efficient way to buy, sell, and rent properties in Saudi Arabia. Users can search for properties based on location, price, and other criteria, and browse detailed descriptions, photos, and virtual tours of the available listings. The app also allows users to connect with agents or property owners directly, schedule viewings, and receive alerts when new properties that match their preferences become available. With its user-friendly interface and helpful features, Aqarcom offers a streamlined and convenient real estate experience for users in Saudi Arabia.
 
 <p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.entlq.aqarcom" target="blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.entlq.aqarcom" target="_blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
 <a href="https://apps.apple.com/sa/app/%D8%B9%D9%82%D8%A7%D8%B1-%D9%83%D9%88%D9%85-aqarcom/id1568547797" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
 </p>
 
