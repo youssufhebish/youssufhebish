@@ -14,6 +14,17 @@
 
 ### AqarCom
 
+The Adam Pharmacy app is a mobile application designed for customers to order their medications online and have them delivered to their doorstep. Users can search for medications, place orders, and make payments using the app. The app also includes features such as medication reminders, a store locator, and access to the customer loyalty program. Overall, the app provides a convenient and efficient way for customers to manage their medication needs.
+
+<p align="left">
+<a href="[https://play.google.com/store/apps/details?id=com.entlq.aqarcom](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy)" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="[https://apps.apple.com/sa/app/%D8%B9%D9%82%D8%A7%D8%B1-%D9%83%D9%88%D9%85-aqarcom/id1568547797](https://apps.apple.com/us/app/adam-pharmacy/id1672276218)" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+</p>
+
+<hr>
+
+### AqarCom
+
 Aqarcom is a real estate mobile application that provides users with a simple and efficient way to buy, sell, and rent properties in Saudi Arabia. Users can search for properties based on location, price, and other criteria, and browse detailed descriptions, photos, and virtual tours of the available listings. The app also allows users to connect with agents or property owners directly, schedule viewings, and receive alerts when new properties that match their preferences become available. With its user-friendly interface and helpful features, Aqarcom offers a streamlined and convenient real estate experience for users in Saudi Arabia.
 
 <p align="left">
