@@ -12,13 +12,13 @@
 
 ## My Projects
 
-### AqarCom
+### Adam Pharmacy
 
 The Adam Pharmacy app is a mobile application designed for customers to order their medications online and have them delivered to their doorstep. Users can search for medications, place orders, and make payments using the app. The app also includes features such as medication reminders, a store locator, and access to the customer loyalty program. Overall, the app provides a convenient and efficient way for customers to manage their medication needs.
 
 <p align="left">
-<a href="[https://play.google.com/store/apps/details?id=com.entlq.aqarcom](https://play.google.com/store/apps/details?id=com.namaait.adampharmacy)" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
-<a href="[https://apps.apple.com/sa/app/%D8%B9%D9%82%D8%A7%D8%B1-%D9%83%D9%88%D9%85-aqarcom/id1568547797](https://apps.apple.com/us/app/adam-pharmacy/id1672276218)" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.namaait.adampharmacy" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="https://apps.apple.com/us/app/adam-pharmacy/id1672276218" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
 </p>
 
 <hr>
