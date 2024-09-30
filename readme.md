@@ -110,19 +110,6 @@ It's a service providing & e-commerce category which specify in car services cat
 
 <hr>
 
-### UrMessages
-
-UrMessages is an application which contains messages to the users with quotes, historical informations, motivation texts, morning texts, etc.
-With favourite messages feature & seen messages features.
-
-<p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.softsteps.urmessages" target="blank"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
-<a href="https://apps.apple.com/eg/app/رسائلك/id1603412584" target="blank"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
-</p>
-
-<hr>
-
-
 ### Khedma Sare3a
 
 Khedma Sare3a is an application in two versions. Client & Provider versions.
