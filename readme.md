@@ -14,6 +14,7 @@
 
 ### Adam Pharmacy
 
+#### +10 k Users
 The Adam Pharmacy app is a mobile application designed for customers to order their medications online and have them delivered to their doorstep. Users can search for medications, place orders, and make payments using the app. The app also includes features such as medication reminders, a store locator, and access to the customer loyalty program. Overall, the app provides a convenient and efficient way for customers to manage their medication needs.
 
 <p align="left">
