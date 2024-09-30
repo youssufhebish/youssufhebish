@@ -12,9 +12,35 @@
 
 ## My Projects
 
+### Sihatec App
+
+The app connects patients with healthcare providers in a specific Iraqi city, enabling users to find doctors by specialization, schedule appointments, and send medical reports. Healthcare providers can register, showcase their qualifications, and list services. Both patients and providers can rate services to enhance user experience, supporting telemedicine development.
+
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=net.sihatec" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="https://apps.apple.com/eg/app/%D8%B5%D8%AD%D8%AA%D9%83/id1628491616?l=ar" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+</p>
+
+<hr>
+
+### Bzaaarz Partners
+
+#### +15 k Users
+#### 1 m$ funded
+
+Bzaaarz Partners apps is top ranked multi-vendor app in Kuwait. A platform for marketers and merchants which helps them traking daily sales, adding products and managing complete process for customers of bzaaarz e-commerce app.
+
+<p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.bazzargate.vendor" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20google%20play-35ab56?logo=googleplay&style=for-the-badge&labelColor=35ab56" alt="GOOGLEPLAY/" /></a>
+<a href="https://apps.apple.com/eg/app/bzaaarz-partners/id6451337380" target="_blank" rel="noopener"><img align="center" src="https://img.shields.io/badge/on%20app%20store-1ba1f6?logo=appstore&style=for-the-badge&labelColor=1ba1f6&logoColor=white" alt="APPSTORE" /></a>
+</p>
+
+<hr>
+
 ### Adam Pharmacy
 
 #### +10 k Users
+
 The Adam Pharmacy app is a mobile application designed for customers to order their medications online and have them delivered to their doorstep. Users can search for medications, place orders, and make payments using the app. The app also includes features such as medication reminders, a store locator, and access to the customer loyalty program. Overall, the app provides a convenient and efficient way for customers to manage their medication needs.
 
 <p align="left">
